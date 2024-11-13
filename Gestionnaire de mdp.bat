@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 :: Mot de passe administrateur pour les opérations sécurisées
-set "admin_password=SolitudeSkyrim1820"
+set "admin_password=Ton Mdp"
 
 :: Fichier pour stocker les comptes et mots de passe
 set "accounts_file=accounts.txt"
